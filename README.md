@@ -3,6 +3,7 @@
     Data Error
     
 # Database Schema 
+Courtesy from : https://www.sqltutorial.org/sql-sample-database/
 
 The Employees sample database has seven tables:
 
