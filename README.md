@@ -1,6 +1,11 @@
 # Custom Error Handling in Spring Boot
     Rest Exception
     Data Error
+# Application facts
+How to Run the Application
+    
+Base URL : http://localhost:9099/hrmanagement/
+Default URL : http://localhost:9099/hrmanagement/api/v1/
     
 # Database Schema 
 Courtesy from : https://www.sqltutorial.org/sql-sample-database/

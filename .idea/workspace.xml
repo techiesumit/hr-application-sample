@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="709ac446-a5b1-438a-a1f6-8a23524828dc" name="Default Changelist" comment="" />
+    <list default="true" id="709ac446-a5b1-438a-a1f6-8a23524828dc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sumit/hr/management/controller/HRManagementController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/empschema.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/db/empschema.mv.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,11 +109,11 @@
   </component>
   <component name="RunManager">
     <configuration name="HumanResourceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sumit.custom.error.example.HumanResourceApplication" />
+      <option name="MAIN_CLASS_NAME" value="com.sumit.hr.management.HumanResourceApplication" />
       <module name="custom.error.example.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sumit.custom.error.example.*" />
+          <option name="PATTERN" value="com.sumit.hr.management.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
