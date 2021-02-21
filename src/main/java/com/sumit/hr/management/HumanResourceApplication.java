@@ -1,4 +1,4 @@
-package com.sumit.human.resource.sample;
+package com.sumit.hr.management;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
