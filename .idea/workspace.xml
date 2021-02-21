@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="709ac446-a5b1-438a-a1f6-8a23524828dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/db/empschema.trace.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/empschema.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/db/empschema.mv.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sumit/custom/error/example/CustomErrorExampleApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sumit/human/resource/sample/HumanResourceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sumit/custom/error/example/configuration/CustomErrorApplicationConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sumit/human/resource/sample/configuration/ApplicationConfigurations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sumit/custom/error/example/CustomErrorExampleApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sumit/human/resource/sample/HumanResourceApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +66,9 @@
       </list>
     </option>
   </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <toolWindowGroupBy>Class</toolWindowGroupBy>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -103,8 +107,8 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
-    <configuration name="CustomErrorExampleApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sumit.custom.error.example.CustomErrorExampleApplication" />
+    <configuration name="HumanResourceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sumit.custom.error.example.HumanResourceApplication" />
       <module name="custom.error.example.main" />
       <extension name="coverage">
         <pattern>
@@ -127,7 +131,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CustomErrorExampleApplication" />
+        <item itemvalue="Application.HumanResourceApplication" />
       </list>
     </recent_temporary>
   </component>

@@ -1,10 +1,10 @@
-package com.sumit.custom.error.example;
+package com.sumit.human.resource.sample;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CustomErrorExampleApplicationTests {
+class HumanResourceApplicationTests {
 
 	@Test
 	void contextLoads() {

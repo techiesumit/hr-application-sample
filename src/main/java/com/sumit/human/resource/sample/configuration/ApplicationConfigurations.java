@@ -1,4 +1,4 @@
-package com.sumit.custom.error.example.configuration;
+package com.sumit.human.resource.sample.configuration;
 
 import okhttp3.ConnectionPool;
 import okhttp3.OkHttpClient;
@@ -10,7 +10,7 @@ import org.springframework.web.client.RestTemplate;
 import java.util.concurrent.TimeUnit;
 
 //@Configuration
-public class CustomErrorApplicationConfig {
+public class ApplicationConfigurations {
 
     @Bean
     public RestTemplate getApplicationRestTemplate() {

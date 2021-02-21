@@ -1,13 +1,13 @@
-package com.sumit.custom.error.example;
+package com.sumit.human.resource.sample;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CustomErrorExampleApplication {
+public class HumanResourceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CustomErrorExampleApplication.class, args);
+		SpringApplication.run(HumanResourceApplication.class, args);
 	}
 
 }
