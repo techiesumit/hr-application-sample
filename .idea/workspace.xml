@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="709ac446-a5b1-438a-a1f6-8a23524828dc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sumit/custom/error/example/CustomErrorExampleApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sumit/human/resource/sample/HumanResourceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sumit/custom/error/example/configuration/CustomErrorApplicationConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sumit/human/resource/sample/configuration/ApplicationConfigurations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/sumit/custom/error/example/CustomErrorExampleApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sumit/human/resource/sample/HumanResourceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sumit/hr/management/data/repos/HRManagementRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sumit/hr/management/data/repos/RegionsRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sumit/hr/management/model/Regions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sumit/human/resource/sample/HumanResourceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sumit/hr/management/HumanResourceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sumit/human/resource/sample/configuration/ApplicationConfigurations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sumit/hr/management/configuration/ApplicationConfigurations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sumit/human/resource/sample/HumanResourceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sumit/hr/management/HumanResourceApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +66,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
