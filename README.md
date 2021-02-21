@@ -5,7 +5,10 @@
 How to Run the Application
     
 Base URL : http://localhost:9099/hrmanagement/
+
 Default URL : http://localhost:9099/hrmanagement/api/v1/
+
+Region Entity URL: http://localhost:9099/hrmanagement/api/v1/regions/
     
 # Database Schema 
 Courtesy from : https://www.sqltutorial.org/sql-sample-database/
